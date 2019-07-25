@@ -23,7 +23,5 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: github
-    url: https://github.com/jgbayer
-  - title: mobile
+  - title: telefone
     url: https://api.whatsapp.com/send?phone=5521965944972
