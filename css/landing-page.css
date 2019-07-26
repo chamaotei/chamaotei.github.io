@@ -166,5 +166,9 @@ p.copyright {
 }
 
 .tei {
-	color: #265ca3;
+	color: #265ca3 !important;
+}
+
+.teif {
+	background: #265ca3 !important;
 }
