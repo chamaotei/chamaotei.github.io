@@ -9,7 +9,7 @@ author: João Bayer
 description: "Pra sua casa ou escritório, chama o TÊÍ - Suporte e Consultoria em Informática."
 copyright: "Copyleft 2019 - TÊÍ . Livre para copiar ;)"
 credits: "Créditos: Desenvolvido com o tema 'Lading Page' do Jekyll, e hospedado com amor no GitHub <3"
-logo: 'http://chamaotei.github.io/chamaotei.github.io/img/logo.png'
+logo: '../img/logo.png'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
