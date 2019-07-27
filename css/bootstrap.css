@@ -940,7 +940,9 @@ img {
   height: auto;
 }
 .img-rounded {
-  border-radius: 6px;
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
   border: 1px solid #ddd;
 }
 .img-thumbnail {
