@@ -1,6 +1,6 @@
 ---
 layout: default
-img: escritorio.svg
+img: work.jpg
 category: Services
 title: Pro escritório<br/>Serviço rápido
 description: |
