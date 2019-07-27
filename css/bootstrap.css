@@ -941,6 +941,7 @@ img {
 }
 .img-rounded {
   border-radius: 6px;
+  border: 1px solid #ddd;
 }
 .img-thumbnail {
   display: inline-block;
