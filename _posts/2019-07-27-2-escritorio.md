@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: escritorio.svg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Pro escritorio<br/>Serviço rápido
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Hoje em dia, dependemos cada vez mais de Redes, Smartphones, Computadores - confie sua estrutura de TI a quem prioriza seu negócio.
