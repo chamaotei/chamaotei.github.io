@@ -940,11 +940,22 @@ img {
   height: auto;
 }
 .img-rounded {
-  width: 128px;
-  height: 128px;
   border-radius: 50%;
   border: 1px solid #ddd;
 }
+
+.cropcircle{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+    background: #eee no-repeat center;
+    background-size: cover;
+}
+
+#logo{
+    background-image: url(../img/logo2.jpg);
+}
+
 .img-thumbnail {
   display: inline-block;
   width: 100% \9;
