@@ -954,6 +954,7 @@ img {
 
 #logo{
     background-image: url(../img/logo2.png);
+	position: absolute;
 }
 
 .img-thumbnail {
