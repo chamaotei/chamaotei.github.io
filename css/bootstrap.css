@@ -946,9 +946,9 @@ img {
 }
 
 .logo-rounded {
-  border-radius: 75%;
+  border-radius: 30%;
   border: 2px solid #ddd;
-  max-width: 150px !important;
+  height: 150px !important;
 }
 
 .img-thumbnail {
