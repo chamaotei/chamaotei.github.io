@@ -944,6 +944,15 @@ img {
   border: 1px solid #ddd;
 }
 
+.logo-rounded {
+  border-radius: 75%;
+  border: 2px solid #ddd !important;
+  display: block;
+  width: 30% \9;
+  max-width: 30%;
+  height: auto;
+}
+
 .img-thumbnail {
   display: inline-block;
   width: 100% \9;
