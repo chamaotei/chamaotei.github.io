@@ -958,7 +958,7 @@ img {
 
 .logo-rounded {
   border-radius: 75%;
-  border: 2px solid #ddd !important;
+  border: 2px solid #ddd;
 }
 
 .img-thumbnail {
