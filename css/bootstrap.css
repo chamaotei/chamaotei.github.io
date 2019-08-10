@@ -940,17 +940,6 @@ img {
   height: auto;
 }
 
-.logo-responsive,
-.thumbnail > img,
-.thumbnail a > img,
-.carousel-inner > .item > img,
-.carousel-inner > .item > a > img {
-  display: block;
-  width: 100% \9;
-  max-width: 100%;
-  height: auto;
-}
-
 .img-rounded {
   border-radius: 50%;
   border: 1px solid #ddd;
@@ -959,6 +948,7 @@ img {
 .logo-rounded {
   border-radius: 75%;
   border: 2px solid #ddd;
+  max-width: 150px !important;
 }
 
 .img-thumbnail {
