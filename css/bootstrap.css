@@ -945,12 +945,6 @@ img {
   border: 1px solid #ddd;
 }
 
-.logo-rounded {
-  border-radius: 30%;
-  border: 2px solid #ddd;
-  height: 150px !important;
-}
-
 .img-thumbnail {
   display: inline-block;
   width: 100% \9;
