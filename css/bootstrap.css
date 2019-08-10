@@ -939,6 +939,18 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+.ilogo-responsive,
+.thumbnail > img,
+.thumbnail a > img,
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  display: block;
+  width: 30% \9;
+  max-width: 30%;
+  height: auto;
+}
+
 .img-rounded {
   border-radius: 50%;
   border: 1px solid #ddd;
@@ -947,10 +959,6 @@ img {
 .logo-rounded {
   border-radius: 75%;
   border: 2px solid #ddd !important;
-  display: block;
-  width: 30% \9;
-  max-width: 30%;
-  height: auto;
 }
 
 .img-thumbnail {
