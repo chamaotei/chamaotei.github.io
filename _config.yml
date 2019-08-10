@@ -25,4 +25,4 @@ permalink: pretty
 
 social:
   - title: telefone
-    url: https://api.whatsapp.com/send?phone=5521965944972
+    url: tel:21965944972

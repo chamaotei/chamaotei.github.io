@@ -37,8 +37,8 @@ h6 {
 
 .intro-message {
     position: relative;
-    padding-top: 3%;
-    padding-bottom: 3%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
 }
 
 .intro-message > h1 {
@@ -112,7 +112,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/fix2.jpg) no-repeat center center;
     background-size: cover;
 }
 
