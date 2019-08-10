@@ -175,3 +175,11 @@ p.copyright {
 	font-size: 1.3em;
 	font-family: 'Josefin Sans';
 }
+
+.blk-container {
+	background-color: #black;
+}
+
+.blk-container img {
+	opacity: 0.5;
+}
