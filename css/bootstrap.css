@@ -942,10 +942,6 @@ img {
 .img-rounded {
   border-radius: 50%;
   border: 1px solid #ddd;
-  display: block;
-  width: 100% \9;
-  max-width: 100%;
-  height: auto;
 }
 
 .img-thumbnail {
